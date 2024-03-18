@@ -5,3 +5,31 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 10%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+.Avengers-imagem{
+    width: 25%;
+}
+
+.Avengers{
+    background-image: -o-linear-gradient(darkred,red);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.Avengers-div-conteudo{
+    width: 35%;
+}
